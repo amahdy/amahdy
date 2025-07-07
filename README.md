@@ -1,23 +1,21 @@
 # Technical Trainer, Public Speaker, and Software Veteran
 
-**A.Mahdy** is an experienced **technical trainer** and **public speaker** with over 15 years in the software industry. His extensive background includes roles at **Google**, **Oracle**, **Vaadin**, and three **start-ups**. He has a keen interest in modern technologies like **GenAI**, **PWA**, **offline-first design**, **machine learning**, **Security**, and the **cloud stack**. When he's not speaking or traveling, A. Mahdy enjoys playing basketball.
+**A.Mahdy** is an experienced **technical trainer** and **public speaker** with over 18 years in the software industry. His extensive background includes roles at **Google**, **Oracle**, **Vaadin**, and three **start-ups**. He has a keen interest in modern technologies like **GenAI**, **PWA**, **offline-first design**, **machine learning**, **security**, and the **cloud stack**. When he's not speaking or traveling, A. Mahdy enjoys playing basketball.
 
+Reach him on:
 
+[<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/refs/heads/6.x/svgs/solid/code.svg" alt="Code Icon" width="20" height="20"> Public Speaking](https://videos.amahdy.com/)
 
+[<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/refs/heads/6.x/svgs/brands/square-youtube.svg" alt="Youtube Icon" width="20" height="20"> @amahdy](https://www.youtube.com/@amahdy)
 
- Reach him on X as [@__amahdy](https://twitter.com/__amahdy) or [amahdy.net](https://amahdy.net)
+[<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/refs/heads/6.x/svgs/regular/file-code.svg" alt="Code Sample Icon" width="20" height="20"> Gists](https://gist.github.com/amahdy)
 
-<!--
-**amahdy/amahdy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/refs/heads/6.x/svgs/regular/note-sticky.svg" alt="Web Icon" width="20" height="20"> amahdy.net](https://amahdy.net)
 
-Here are some ideas to get you started:
+[<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/refs/heads/6.x/svgs/brands/linkedin.svg" alt="LinkedIn Icon" width="20" height="20"> linkedin.com/in/amahdyabdelaziz](https://www.linkedin.com/in/amahdyabdelaziz/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/refs/heads/6.x/svgs/brands/square-twitter.svg" alt="Twitter Icon" width="20" height="20"> @__amahdy](https://twitter.com/__amahdy)
+
+[<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/refs/heads/6.x/svgs/brands/medium.svg" alt="Medium Icon" width="20" height="20"> @amahdy](https://medium.com/@amahdy)
+
+[<img src="https://dzone.com/themes/dz20/images/favicon.png" alt="DZone Icon" width="20" height="20"> amahdy](https://dzone.com/users/2729036/amahdy.html)
