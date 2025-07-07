@@ -1,4 +1,11 @@
-## Hi there 👋
+# Technical Trainer, Public Speaker, and Software Veteran
+
+**A.Mahdy** is an experienced **technical trainer** and **public speaker** with over 15 years in the software industry. His extensive background includes roles at **Google**, **Oracle**, **Vaadin**, and three **start-ups**. He has a keen interest in modern technologies like **GenAI**, **PWA**, **offline-first design**, **machine learning**, **Security**, and the **cloud stack**. When he's not speaking or traveling, A. Mahdy enjoys playing basketball.
+
+
+
+
+ Reach him on X as [@__amahdy](https://twitter.com/__amahdy) or [amahdy.net](https://amahdy.net)
 
 <!--
 **amahdy/amahdy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
