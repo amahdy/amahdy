@@ -1,0 +1,46 @@
+# This is a basic workflow to help you get started with Actions
+
+name: Sync into Github pages
+
+# Controls when the workflow will run
+on:
+  # Triggers the workflow on push
+  push:
+    branches: [ "main" ]
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout first repository
+        uses: actions/checkout@v4
+        with:
+          repository: ${{ github.repository }} # This repo
+          ref: ${{ github.ref }}
+
+      - name: Set up Git
+        run: |
+          git config --global user.name "${GITHUB_ACTOR}"
+          git config --global user.email "${GITHUB_ACTOR}@users.noreply.github.com"
+
+      - name: Clone second repository
+        uses: actions/checkout@v4
+        with:
+          repository: amahdy/amahdy.github.io
+          path: second-repo-clone
+          token: ${{ secrets.PAT_TOKEN }} # Secret with repo write access
+
+      - name: Copy MD file
+        run: |
+          cp README.md second-repo-clone/index.md
+
+      - name: Commit and push changes
+        working-directory: second-repo-clone
+        run: |
+          git add .
+          git diff-index --quiet HEAD || git commit -m "Automated update of README.md from amahdy repo"
+          git push
