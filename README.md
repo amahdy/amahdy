@@ -5,11 +5,11 @@
 * **Fun Fact:** [Volunteered as Field of Play](https://openbadgefactory.com/v1/assertion/b3d2264191401637aa0a55d924c26d83ac9ab834
 ) (FOP) at the **Paris 2024 Olympic & Paralympic Games**.
 
-* **Speaks:** PWA, Node.js, C++, Java, PHP, PERL, Python, .NET, VB, Bash, SQL, PL/SQL, HTML5, JS, CSS3, Prolog, Scala, Assembly.
+* **Speaks:** `PWA`, `Node.js`, `C++`, `Java`, `Python`, `PHP`, `PERL`, `.NET`, `VB`, `Bash`, `SQL`, `PL/SQL`, `HTML5`, `JS`, `CSS3`, `Prolog`, `Scala`, `Assembly`.
 
 ### Current tech stack includes:
 
-LangChain, ADK (Agent Development Kit), Machine Learning, Gemini for developers, GenAI, Vertex AI, AI Agent, Cloud Run, Cloud Run Functions, GKE (Google Kubernetes Engine), Autopilot, Pub/Sub, Orchestration & Choreography, EventArcs, Workflows, Network & Infrastructure, Cloud Security, App Dev, Responsible AI, Explainable AI, Model Garden, AppEngine, Terraform, PWA, Web Components, and Vaadin.
+`LangChain`, `ADK` <sub>*Agent Development Kit*</sub>, `Machine Learning`, `Gemini for developers`, `GenAI`, `Vertex AI`, `AI Agent`, `Cloud Run`, `Cloud Run Functions`, `GKE` <sub>*Google Kubernetes Engine*</sub>, `Autopilot`, `Pub/Sub`, `Orchestration & Choreography`, `EventArcs`, `Workflows`, `Network & Infrastructure`, `Cloud Security`, `App Dev`, `Responsible AI`, `Explainable AI`, `Model Garden`, `AppEngine`, `Terraform`, `PWA`, `Web Components`, and `Vaadin`.
 
 ### Find him on:
 
